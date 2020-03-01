@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mr-potatoz.github.io/"/>
-  <updated>2020-03-01T13:57:19.000Z</updated>
+  <updated>2020-03-01T14:05:44.000Z</updated>
   <id>https://mr-potatoz.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://mr-potatoz.github.io/2020/02/29/Test/"/>
     <id>https://mr-potatoz.github.io/2020/02/29/Test/</id>
     <published>2020-02-29T13:26:57.000Z</published>
-    <updated>2020-03-01T13:57:19.000Z</updated>
+    <updated>2020-03-01T14:05:44.000Z</updated>
     
     <content type="html"><![CDATA[<br><p>新的一年，新的挑战，新的目标，为了这个目标，Try Harder</p><br>]]></content>
     
@@ -35,7 +35,7 @@
       <category term="随笔" scheme="https://mr-potatoz.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="随笔" scheme="https://mr-potatoz.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="Note" scheme="https://mr-potatoz.github.io/tags/Note/"/>
     
   </entry>
   
