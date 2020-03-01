@@ -4,17 +4,23 @@
   
     
     <entry>
-      <title>Test</title>
+      <title>Try Harder</title>
       <link href="/2020/02/29/Test/"/>
       <url>/2020/02/29/Test/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>开启新的篇章</p></blockquote><br><br><h2 id="header-2"><a href="#header-2" class="headerlink" title="header 2"></a>header 2</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> time</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">time.sleep(<span class="number">10</span>)</span><br><span class="line">print(<span class="string">"Try"</span>)</span><br></pre></td></tr></table></figure><br><h3 id="header-2-1"><a href="#header-2-1" class="headerlink" title="header 2-1"></a>header 2-1</h3><p><code>nmap -n -sn -T5 -v 192.168.56.1/24</code></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Out Something</span><br></pre></td></tr></table></figure><br><h2 id="header-3"><a href="#header-3" class="headerlink" title="header 3"></a>header 3</h2><hr><p><img src="79763768_p0.jpg" alt="no"></p>]]></content>
+        <content type="html"><![CDATA[<br><p>新的一年，新的挑战，新的目标，为了这个目标，Try Harder</p><br>]]></content>
       
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> Test </tag>
+            <tag> 随笔 </tag>
             
         </tags>
       
