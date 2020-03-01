@@ -5,9 +5,9 @@
   <subtitle>Try Harder</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://mr-potatoz.github.io/"/>
   <updated>2020-03-01T13:57:19.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://mr-potatoz.github.io/</id>
   
   <author>
     <name>土豆子</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Try Harder</title>
-    <link href="http://yoursite.com/2020/02/29/Test/"/>
-    <id>http://yoursite.com/2020/02/29/Test/</id>
+    <link href="https://mr-potatoz.github.io/2020/02/29/Test/"/>
+    <id>https://mr-potatoz.github.io/2020/02/29/Test/</id>
     <published>2020-02-29T13:26:57.000Z</published>
     <updated>2020-03-01T13:57:19.000Z</updated>
     
@@ -32,10 +32,10 @@
     </summary>
     
     
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://mr-potatoz.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://mr-potatoz.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
