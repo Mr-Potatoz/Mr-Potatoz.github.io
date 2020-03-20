@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mr-potatoz.github.io/about/index.html</loc>
+    
+    <lastmod>2020-03-20T07:18:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mr-potatoz.github.io/2020/03/20/Five86-2/</loc>
+    
+    <lastmod>2020-03-20T07:15:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mr-potatoz.github.io/2020/03/10/Five86-1/</loc>
     
     <lastmod>2020-03-10T11:42:40.000Z</lastmod>
@@ -40,13 +54,6 @@
     <loc>https://mr-potatoz.github.io/tags/index.html</loc>
     
     <lastmod>2020-03-01T13:39:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mr-potatoz.github.io/about/index.html</loc>
-    
-    <lastmod>2020-02-29T15:29:43.000Z</lastmod>
     
   </url>
   
