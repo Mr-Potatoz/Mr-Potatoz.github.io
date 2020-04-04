@@ -20,7 +20,7 @@
 
 <br>
 
-<p><img src="2020-02-10%2013-50-50%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-13-50-50%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 <p>排除本机与网关还有两个，扫服务确定目标 IP ： <code>192.168.56.110</code> </p>
@@ -33,7 +33,7 @@
 <p>浏览器访问如下：</p>
 <br>
 
-<p><img src="2020-02-10%2013-55-42%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-13-55-42%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 <p>网站的话，需要先收集一下目录信息：</p>
@@ -41,15 +41,15 @@
 
 <br>
 
-<p><img src="2020-02-10%2009-31-38%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-09-31-38%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ dirb http://192.168.56.110</span><br></pre></td></tr></table></figure>
 
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ nikto -h http://192.168.56.110</span><br></pre></td></tr></table></figure>
 
 <br>
 
-<p><img src="2020-02-10%2009-32-15%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""></p>
-<p><img src="2020-02-10%2009-33-04%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-1581314672000.png" alt=""> </p>
+<p><img src="2020-02-10-09-32-15%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""></p>
+<p><img src="2020-02-10-09-33-04%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE-1581314672000.png" alt=""> </p>
 <br>
 
 <p><code>robots</code> 总会有些东西泄露：</p>
@@ -78,7 +78,7 @@
 <p>使用得到的用户名密码登录 SSH 无效，但成功登录 Web 页面，一个文件上传服务：</p>
 <br>
 
-<p><img src="2020-02-10%2009-36-00%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-09-36-00%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 <p>上传照片返回成功，上传 <code>php</code> 页面也成功，可知并没有黑白名单</p>
@@ -100,7 +100,7 @@
 
 <br>
 
-<p><img src="2020-02-10%2014-50-32%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-14-50-32%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 <p><strong>使用 MSF 的 php 反弹木马</strong> </p>
@@ -111,16 +111,16 @@
 
 <br>
 
-<p><img src="2020-02-10%2010-42-35%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
-<p><img src="2020-02-10%2010-48-36%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-10-42-35%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-10-48-36%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 
 <p>查看 Web的根目录，从 <code>hint.txt</code> 找到了第三个 FLAG，并说明了使用 <code>technawi</code>  的用户才可以读取 <code>flag.txt</code> 且在一个隐藏目录里面</p>
 <br>
 
-<p><img src="2020-02-10%2010-51-43%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
-<p><img src="2020-02-10%2011-01-20%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-10-51-43%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-11-01-20%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 <p>查看 <code>/etc/passwd</code> 除了 <code>technawi</code> 的 HOME 目录，无其他有用信息</p>
@@ -131,14 +131,14 @@
 
 <br>
 
-<p><img src="2020-02-10%2011-15-57%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-11-15-57%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 <p>发现了一个 MySQL 的 认证TXT，找到第四个 FLAG 附带一组账号密码，成功登录 SSH，并拿到最后一个 FLAG</p>
 <br>
 
-<p><img src="2020-02-10%2011-16-38%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
-<p><img src="2020-02-10%2011-31-36%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-11-16-38%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-11-31-36%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 <h2 id="提权-额外"><a href="#提权-额外" class="headerlink" title="提权(额外)"></a>提权(额外)</h2><br>
@@ -147,7 +147,7 @@
 <p>意味着 <code>technawi</code> 可以用自己的密码登录成为 root 用户（提权）</p>
 <br>
 
-<p><img src="2020-02-10%2011-34-18%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
+<p><img src="2020-02-10-11-34-18%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png" alt=""> </p>
 <br>
 
 <hr>
